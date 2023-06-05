@@ -3,6 +3,7 @@
 
 - Github仓库地址：[https://github.com/Musicminion/minik8s](https://github.com/Musicminion/minik8s)
 - Gitee仓库地址：[https://gitee.com/Musicminion/minik8s](https://gitee.com/Musicminion/miniK8s)
+- 在线文档地址：[https://minik8s.ayaka.space/](https://minik8s.ayaka.space/)
 
 ### 小组成员
 
